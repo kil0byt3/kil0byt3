@@ -6,4 +6,4 @@ at the moment i'm working on <img src="https://user-images.githubusercontent.com
 
 💬 want to get in touch? message me on [discord](https://dsc.bio/kilo) at `kilo#0069`.
 
-check out [my website](http://kilobyte.dev/me) for more info about me, or browse through some of my projects here on github.
+check out [my website](http://kilobyte.dev) for more info about me, or browse through some of my projects here on github.
